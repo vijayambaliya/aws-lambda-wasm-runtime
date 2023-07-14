@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>AWS Lambda Wasm Runtime</title>
+        <title>Demo : AWS Lambda with Wasm Runtime</title>
         <link rel="icon" type="image/png" href="/aws-lambda-wasm-runtime/favicon.png" sizes="16x16" />
       </Head>
 
